@@ -1,0 +1,8 @@
+C:\Users\smoky\Source\Repos\SimpleProcessHollowing\bin\x64\Debug\SimpleProcessHollowing.exe.config
+C:\Users\smoky\Source\Repos\SimpleProcessHollowing\bin\x64\Debug\SimpleProcessHollowing.exe
+C:\Users\smoky\Source\Repos\SimpleProcessHollowing\bin\x64\Debug\SimpleProcessHollowing.pdb
+C:\Users\smoky\Source\Repos\SimpleProcessHollowing\obj\x64\Debug\SimpleProcessHollowing.csproj.AssemblyReference.cache
+C:\Users\smoky\Source\Repos\SimpleProcessHollowing\obj\x64\Debug\SimpleProcessHollowing.csproj.SuggestedBindingRedirects.cache
+C:\Users\smoky\Source\Repos\SimpleProcessHollowing\obj\x64\Debug\SimpleProcessHollowing.csproj.CoreCompileInputs.cache
+C:\Users\smoky\Source\Repos\SimpleProcessHollowing\obj\x64\Debug\SimpleProcessHollowing.exe
+C:\Users\smoky\Source\Repos\SimpleProcessHollowing\obj\x64\Debug\SimpleProcessHollowing.pdb
